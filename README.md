@@ -20,5 +20,7 @@ bSurf is handcrafted by a passionate solo developer, pouring love and meticulous
 Join the adventure and challenge your survival skills! 
 
 Available for free on the Google Play Store:
+https://play.google.com/store/apps/details?id=com.bacGames.bSurf
+
 
 ![Screenshot from 2024-02-17 14-09-26](https://github.com/omiguelgomes/bSurf/assets/47975307/d225a428-aa97-492a-b66f-19f26335b524)
